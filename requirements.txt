@@ -1,0 +1,6 @@
+pandas
+selenium
+webdriver-manager
+selenium-stealth
+fake-useragent
+fake-headers
